@@ -1,0 +1,364 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+        <style>
+            {
+                box-sizing: border-box;
+            }
+            /* Set additional styling options for the columns*/
+            .column {
+            float: left;
+            width: 50%;
+            }
+        
+            .row:after {
+            content: "";
+            display: table;
+            clear: both;
+            }
+
+            .fa {
+            padding: 20px;
+            font-size: 30px;
+            width: 50px;
+            text-align: center;
+            text-decoration: none;
+            }
+            .fa:hover {
+            opacity: 0.5;
+            }
+            
+        </style>
+
+        
+        <meta charset="utf-8"/>
+        <title>Abhinav Vaishya @ IIIT-H</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        
+        <!-- Font Awesome Icons -->
+        <link rel="stylesheet" href="css/font-awesome.min.css"/>
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+        
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet"/>
+        <!--<link href="css/bootstrap.min.css" rel="stylesheet">-->
+        
+        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+        <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+        <!--[if lt IE 9]>
+         <script src="js/html5shiv.js"></script>
+         <script src="js/respond.min.js"></script>
+         <![endif]-->
+        
+        
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <!-- http://getbootstrap.com/customize/ change "@screen-sm" -> "@screen-md" in @grid-float-breakpoint -->
+        <script src="js/jquery.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+        <script src="js/menucollapse.js"></script>
+        <script type="text/javascript" src="js/arrow78.js"></script>
+        <script type="text/javascript" src="js/custom.js"></script>
+    </head>
+    
+    <body id="page-top" class="index">
+        
+        <!-- Navigation -->
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"  data-target="#bs-example-navbar-collapse-2" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="glyphicon glyphicon-search"></span>
+                    </button>
+                    <button id="button2" type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span><a href="#"><img border="0" width="120" height="50" src="images/iiith.png"/></a></span>
+                </div>
+                
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                                Home<span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a onclick="javascript:reset_menus();$('#tab-intro-content').show();" href="#intro">Introduction</a></li>
+                                <li><a target="_blank" href="AbhinavVaishya_Resume.pdf">Resume (PDF)</a></li>
+                            </ul>
+                        </li>
+                        <li class="page-scroll">
+                            <a onclick="javascript:reset_menus();$('#tab-experience-content').show();" href="#experience">Experience</a>
+                        </li>
+                        <li class="page-scroll">
+                            <a onclick="javascript:reset_menus();$('#tab-courses-content').show();" href="#courses">Courses</a>
+                        </li>
+                        <li class="page-scroll">
+                            <a onclick="javascript:reset_menus();$('#tab-contact-content').show();" href="#contact">Contact</a>
+                        </li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+                
+                <!-- search box submenu -->
+                <div class="collapse" id="bs-example-navbar-collapse-2">
+                    <gcse:search></gcse:search>
+                        </div>
+                
+            </div><!-- /.container-fluid -->
+        </nav>
+        
+        <section>
+            <!-- Place this tag where you want the search results to render -->
+            <gcse:searchresults-only></gcse:searchresults-only>
+                </section>
+        
+        <!-- Home Section -->
+        <section  name="home" id="home" style="margin-top:40px">
+            <div class="container">
+                <div align="left" class="col-md-4">
+                    <a target="_blank" href="images/photo.jpg">
+                        <img id="mobile-img" src="images/photo.jpg" width="350" border="0" height="350" alt=""></a>
+                </div>
+                <div align="left" class="col-md-4">
+                    <h2>Abhinav Vaishya
+                        <h5><i>B.Tech + M.S. in Computer Science, IIIT Hyderabad</i></h5>
+                    </h2>
+                    
+                    <h4>Undergraduate Researcher<br>
+                        <a href="https://spcrc.iiit.ac.in/">SPCRC</a><br>
+                        <a href="https://iiit.ac.in/">IIIT Hyderabad</a><br>
+                        <!--
+                         P.O. Box 20537<br>
+                         1678 Nicosia, CYPRUS<br>-->
+                        <!-- Tel/Fax: <a href="tel:0035722892755">+357-22892755</a> / <a href="tel:0035722892701">01</a><br/> -->
+                        Email:
+                        <script language="JavaScript">
+                            <!--
+                            document.write("&nbsp;");
+                            spiderjam('abhinav.vaishya','research.iiit.ac.in');
+                            -->
+                            </script><br/>
+                        <!-- Lab: <a target="_blank" href="https://dmsl.cs.ucy.ac.cy/">http://dmsl.cs.ucy.ac.cy/</a><br> -->
+                        <!-- Directions: <a target="_blank" href="https://goo.gl/FQCHMl">http://goo.gl/FQCHMl</a> -->
+                    </h4>
+                    <h4><b>Research Interests:</b> Coding Theory, Linear Algebra, Algorithms, Combinatorics 
+                    
+                </div>
+                
+                <!-- <i class="twittertop" style="display:none;" id="t1">
+                    <div id="news" tyle="text-align: left"  class="col-md-5">&nbsp;
+                        <center><a class="twitter-timeline" href="https://twitter.com/dmslucy" data-chrome="nofooter" data-widget-id="346662554203992065" data-width="900"
+                            data-height="300">Tweets
+                            by @dmslucy</a>
+                        <script>!function (d, s, id) {
+                            var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+                            if (!d.getElementById(id)) {
+                                js = d.createElement(s);
+                                js.id = id;
+                                js.src = p + "://platform.twitter.com/widgets.js";
+                                fjs.parentNode.insertBefore(js, fjs);
+                            }
+                        }(document, "script", "twitter-wjs");</script></center>
+                    </div>
+                </i> -->
+                
+                <!--<p><a href="#" class="btn btn-primary">More &raquo;</a></p>-->
+                <b class="expandshow" style="display:none;" id="tab-1">
+                    <button class="btn btn-primary btn-lg btn-block" style="width: 100%;" onclick="javascript:$('.allshow').show();$('.noshow').hide();$('.collapseshow').show();$('.expandshow').hide();">EXPAND ALL SECTIONS <span class="glyphicon glyphicon-chevron-down"></span></button>
+                </b>
+                <b class="collapseshow" style="display:none;" id="tab-1">
+                    <button class="btn btn-primary btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('.allshow').hide();$('.noshow').show();$('.expandshow').show();$('.collapseshow').hide();">COLLAPSE ALL SECTIONS <span class="glyphicon glyphicon-chevron-up"></span></button>
+                </b>
+                
+            </div>
+        </section>
+        
+        <!-- Home Section -->
+        <section name="intro" id="intro">
+            <div class="container lead">
+                <div style="text-align: left; margin-top:10px" class="col-md-12">
+                    <!--<h2>Welcome!</h2>-->
+                    
+                    <b class="noshow" style="display:none;" id="tab-1">
+                        <button class="btn btn-default btn-lg btn-block" style="display: block; width: 100%;" onclick="javascript:$('#tab-intro-content').toggle();">Introduction <span class="glyphicon glyphicon-chevron-down"></span></button>
+                    </b>
+                    
+                    <div class="allshow" style="display:none;" id="tab-intro-content">
+                        <hr class="star-primary">
+                        
+                        <p class="lead">
+                        Hi! I am currently a 5th-year student pursuing an integrated B.Tech + MS by Research in Computer Science
+                        </a> at <a target="_blank" href="https://iiit.ac.in/">IIIT Hyderabad</a>. I have been working under 
+                        <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Dr. Prasad Krishnan</a> at
+                        <a href="https://spcrc.iiit.ac.in/">SPCRC</a>, IIIT Hyderabad. My research interests lie broadly in Coding Theory. I enjoy working on
+                        problems that are algorithmic, mathematical, and theoretical in nature. 
+                        </p>
+                        <!-- My primary research interest has been Coded Caching and Coded Data Rebalancing in Distributed Storage Systems. <br> -->
+                        <a href="AbhinavVaishya_Resume.pdf" class="btn-sm btn-primary">Resume (PDF)&raquo;</a>
+                    </div>
+                    
+                </div>
+            </div>
+        </section>
+        
+        
+        
+        <!-- Experience Section -->
+        <section  name="experience" id="experience">
+            <div class="container lead">
+                <div style="text-align: left; margin-top:10px" class="col-md-12">
+                    
+                    <b class="noshow" style="display:none;" id="tab-5">
+                        <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-courses-content').toggle();">Experience  <span class="glyphicon glyphicon-chevron-down"></span></button>
+                    </b>
+                    <div class="allshow" style="display:none;" id="tab-courses-content">
+                        <hr class="star-primary">
+                        <h2>Experience </h2>
+                        <ul> 
+                            <li> 
+                                <!-- <div class style="background-color:rgb(170, 170, 170);"> -->
+                                <b>Research Oriented</b>
+                            </li>
+                            <ul>   
+                                <li><span class="label label-success">Undergraduate Researcher at SPCRC, IIIT-H</span> (August 2020 - Present) <br>
+                                    Working under <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Dr. Prasad Krishnan</a> on Coded Caching and
+                                    Coded Data Rebalancing for distributed storage systems.
+                                </li>
+                                <li><span class="label label-default">Undergraduate Researcher at CVIT, IIIT-H</span> (May 2019 - June 2020) <br>
+                                    Worked, in a team of 2, under <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en">Dr. Ravi Kiran Sarvadevabhatla</a>,
+                                    to add new features to HInDoLA, an annotation and analysis system. This work was showcased at a workshop on Open Source Tools for Document Images, held
+                                    as part of the 15th International Conference on Document Analysis and Recognition (ICDAR-2019) held in Sydney, Australia.
+                                </li>
+                            </ul>
+                            <li> 
+                                <!-- <div class style="background-color:rgb(170,170,170);"> -->
+                                    <b>Other</b>
+                                </li>
+                            </li>
+                            <ul>
+                                <li><span class="label label-success">Teaching Assistant at IIIT-H</span> (February 2022 - ) <br>
+                                    Intro to Coding Theory Teaching Assistant for Spring Semester 2022. 
+                                </li>
+                                <li><span class="label label-default">Teaching Assistant at IIIT-H</span> (March 2021 - May 2021) <br>
+                                    Linear Algebra Teaching Assistant for Spring Semester 2021. Responsibilities included conducting tutorials, setting the assignments and paper corrections. 
+                                </li>
+                                <li><span class="label label-default">Web Developer at VLEAD, IIIT-H</span> (Aug. 2018 - Nov. 2018) <br>
+                                Worked, in a team of 3, to create a web application for interactive online learning modules.
+                                </li>
+                            </ul>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </section>
+    
+ 
+         <!-- Courses Section -->
+     
+
+        <!-- Courses Section -->
+        <section  name="courses" id="courses">
+            <div class="container lead">
+                <div style="text-align: left; margin-top:10px" class="col-md-12">
+                    
+                    <b class="noshow" style="display:none;" id="tab-5">
+                        <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-courses-content').toggle();">Courses  <span class="glyphicon glyphicon-chevron-down"></span></button>
+                    </b>
+                    <div class="allshow" style="display:none;" id="tab-courses-content">
+                        <hr class="star-primary">
+                        <h2>Courses (Relevant)</h2>
+                        <div class="row">
+                        <div class="column" >
+                        <ul>
+                                <li><span class="label label-default">Spring '21</span> Topics in Coding Theory</li>
+                                <li><span class="label label-default">Spring '21</span> Introduction to Game Theory</li>
+                                <li><span class="label label-default">Spring '21</span> Software Engineering</li>
+                                <li><span class="label label-default">Monsoon '20</span> Principles of Information Security</li>
+                                <li><span class="label label-default">Monsoon '20</span> Compilers</li>
+                                <li><span class="label label-default">Spring '20</span> Computer Vision</li>
+                                <li><span class="label label-default">Spring '20</span> Distributed Systems</li>
+                                <li><span class="label label-default">Spring '20</span> Introduction to Parallel Scientific Computing</li>
+                                <li><span class="label label-default">Spring '20</span> Optimization Methods</li>
+                                <li><span class="label label-default">Monsoon '19</span> Advanced Mathematical Structures</li>
+                                <li><span class="label label-default">Monsoon '19</span> Complexity and Advanced Algorithms</li>
+                                <li><span class="label label-default">Monsoon '19</span> Digital Image Processing</li>
+                        </ul>
+                    </div>
+                    <div class="column" >
+                        <ul>
+                                <li><span class="label label-default">Monsoon '19</span> Statistical Methods in AI</li>
+                                <li><span class="label label-default">Monsoon '19</span> Topics in Applied Optimization</li>
+                                <li><span class="label label-default">Spring '19</span> Graphics</li>
+                                <li><span class="label label-default">Spring '19</span> Digital Signal Analysis and Applications</li>
+                                <li><span class="label label-default">Spring '19</span> Artificial Intelligence</li>
+                                <li><span class="label label-default">Spring '19</span> Computer Networks</li>
+                                <li><span class="label label-default">Spring '19</span> Formal Methods</li>
+                                <li><span class="label label-default">Spring '19</span> Engineering Systems</li>
+                                <li><span class="label label-default">Monsoon '18</span>  Algorithms</li>
+                                <li><span class="label label-default">Monsoon '18</span> Computational Complexity Theory</li>
+                                <li><span class="label label-default">Monsoon '18</span> Structured Systems Analysis and Design</li>
+                                <li><span class="label label-default">Monsoon '18</span> Operating Systems</li>
+                            </ul>
+                    </div>
+                    </div>
+                </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Courses Section -->
+   
+       <!--  <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
+src="http://stuff.mit.edu/cgi/counter/abhinav-vaishya" alt="several"></a> -->
+        
+        <!-- Courses Section -->
+   
+        
+        <!-- Home Section -->
+
+        
+        
+        <!-- Home Section -->
+        <section  name="contact" id="contact">
+            <div class="container lead">
+                <div style="text-align: left; margin-top:10px" class="col-md-12">
+                    <b class="noshow" style="display:none;" id="tab-10">
+                        <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-contact-content').toggle();">Contact  <span class="glyphicon glyphicon-chevron-down"></span></button>
+                    </b>
+                    <div class="allshow" style="display:none;" id="tab-contact-content">
+                         <hr class="star-primary">
+                        <h2>Contact</h2>    
+                        <a href="https://www.linkedin.com/in/abhinavvaishya/" class="fa fa-linkedin"></a>
+                        <a href="mailto:abhinav.vaishya@research.iiit.ac.in" class="fa fa-envelope"></a>
+                        <a href="https://github.com/abhinav-vaishya/" class="fa fa-github"></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <hr class="star-primary">
+        <footer>
+            <small>
+                <center>
+                    © 2021 | Abhinav Vaishya. Credits: AR template
+                    <a onclick="javascript:$('#credit').toggle();"><img border="0" src="images/ccby.png"/></a>
+                    <div style="display:none;" id="credit">[AR template available under Creative Commons CC BY 4.0 licence:
+                        <a href="https://github.com/dmsl/academic-responsive-template" target="_blank">
+                            https://github.com/dmsl/academic-responsive-template
+                        </a> ]
+                    </div>
+                </center>
+            </small>
+        </footer>
+        
+    </body>
+    
+</html>
