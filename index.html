@@ -3,6 +3,13 @@
     
     <head>
         <style>
+
+            html *
+            {
+               font-size: 20px ;
+               color: #000 ;
+               font-family: Verdana ;
+            }
             {
                 box-sizing: border-box;
             }
@@ -92,15 +99,19 @@
                                 Home<span class="caret"></span></a>
                             <ul class="dropdown-menu">
                                 <li><a onclick="javascript:reset_menus();$('#tab-intro-content').show();" href="#intro">Introduction</a></li>
-                                <li><a target="_blank" href="AbhinavVaishya_Resume.pdf">Resume (PDF)</a></li>
+                                <li><a target="_blank" href="AbhinavVaishya_CV.pdf">CV (PDF)</a></li>
                             </ul>
                         </li>
                         <li class="page-scroll">
                             <a onclick="javascript:reset_menus();$('#tab-experience-content').show();" href="#experience">Experience</a>
                         </li>
-                        <li class="page-scroll">
+                        <!-- <li class="page-scroll">
                             <a onclick="javascript:reset_menus();$('#tab-courses-content').show();" href="#courses">Courses</a>
+                        </li> -->
+                        <li class="page-scroll">
+                            <a onclick="javascript:reset_menus();$('#tab-publications-content').show();" href="#publications">Publications</a>
                         </li>
+
                         <li class="page-scroll">
                             <a onclick="javascript:reset_menus();$('#tab-contact-content').show();" href="#contact">Contact</a>
                         </li>
@@ -132,9 +143,8 @@
                         <h5><i>B.Tech + M.S. in Computer Science, IIIT Hyderabad</i></h5>
                     </h2>
                     
-                    <h4>Undergraduate Researcher<br>
-                        <a href="https://spcrc.iiit.ac.in/">SPCRC</a><br>
-                        <a href="https://iiit.ac.in/">IIIT Hyderabad</a><br>
+                    <h4>Research Assistant<br>
+                        SPCRC, IIIT Hyderabad<br>
                         <!--
                          P.O. Box 20537<br>
                          1678 Nicosia, CYPRUS<br>-->
@@ -149,7 +159,8 @@
                         <!-- Lab: <a target="_blank" href="https://dmsl.cs.ucy.ac.cy/">http://dmsl.cs.ucy.ac.cy/</a><br> -->
                         <!-- Directions: <a target="_blank" href="https://goo.gl/FQCHMl">http://goo.gl/FQCHMl</a> -->
                     </h4>
-                    <h4><b>Research Interests:</b> Coding Theory, Linear Algebra, Algorithms, Combinatorics 
+                    <h4><b>Research Interests:</b> Coding for Distributed Storage, Coded Caching
+
                     
                 </div>
                 
@@ -195,14 +206,14 @@
                         <hr class="star-primary">
                         
                         <p class="lead">
-                        Hi! I am currently a 5th-year student pursuing an integrated B.Tech + MS by Research in Computer Science
+                        Hi! I am currently a final year student pursuing an integrated B.Tech + MS by Research in Computer Science
                         </a> at <a target="_blank" href="https://iiit.ac.in/">IIIT Hyderabad</a>. I have been working under 
                         <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Dr. Prasad Krishnan</a> at
                         <a href="https://spcrc.iiit.ac.in/">SPCRC</a>, IIIT Hyderabad. My research interests lie broadly in Coding Theory. I enjoy working on
                         problems that are algorithmic, mathematical, and theoretical in nature. 
                         </p>
                         <!-- My primary research interest has been Coded Caching and Coded Data Rebalancing in Distributed Storage Systems. <br> -->
-                        <a href="AbhinavVaishya_Resume.pdf" class="btn-sm btn-primary">Resume (PDF)&raquo;</a>
+                        <a href="AbhinavVaishya_CV.pdf" class="btn-sm btn-primary">CV (PDF)&raquo;</a>
                     </div>
                     
                 </div>
@@ -225,14 +236,17 @@
                         <ul> 
                             <li> 
                                 <!-- <div class style="background-color:rgb(170, 170, 170);"> -->
-                                <b>Research Oriented</b>
+                                <i style="font-size:24px">Research Oriented</i>
                             </li>
                             <ul>   
-                                <li><span class="label label-success">Undergraduate Researcher at SPCRC, IIIT-H</span> (August 2020 - Present) <br>
-                                    Working under <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Dr. Prasad Krishnan</a> on Coded Caching and
+                                <li><b>Research Assistant at SPCRC, IIIT-H (May 2021 - Present)</b> <br>
+                                    Working under <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Dr. Prasad Krishnan</a> on Coded Data Rebalancing for distributed storage systems.
+                                </li>
+                                <li><b>Undergraduate Researcher at SPCRC, IIIT-H (Aug 2020 - Apr 2021)</b> <br>
+                                    Worked under <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Dr. Prasad Krishnan</a> on Coded Caching and
                                     Coded Data Rebalancing for distributed storage systems.
                                 </li>
-                                <li><span class="label label-default">Undergraduate Researcher at CVIT, IIIT-H</span> (May 2019 - June 2020) <br>
+                                <li><b>Undergraduate Researcher at CVIT, IIIT-H (May 2019 - Jun 2020)</b>  <br>
                                     Worked, in a team of 2, under <a href="https://scholar.google.co.in/citations?user=oLJTcXIAAAAJ&hl=en">Dr. Ravi Kiran Sarvadevabhatla</a>,
                                     to add new features to HInDoLA, an annotation and analysis system. This work was showcased at a workshop on Open Source Tools for Document Images, held
                                     as part of the 15th International Conference on Document Analysis and Recognition (ICDAR-2019) held in Sydney, Australia.
@@ -240,18 +254,21 @@
                             </ul>
                             <li> 
                                 <!-- <div class style="background-color:rgb(170,170,170);"> -->
-                                    <b>Other</b>
+                                    <i style="font-size:24px">Other</i>
                                 </li>
                             </li>
                             <ul>
-                                <li><span class="label label-success">Teaching Assistant at IIIT-H</span> (February 2022 - ) <br>
+                                <li><b>Teaching Assistant at IIIT-H (Feb 2022 - May 2022)</b> <br>
                                     Intro to Coding Theory Teaching Assistant for Spring Semester 2022. 
                                 </li>
-                                <li><span class="label label-default">Teaching Assistant at IIIT-H</span> (March 2021 - May 2021) <br>
-                                    Linear Algebra Teaching Assistant for Spring Semester 2021. Responsibilities included conducting tutorials, setting the assignments and paper corrections. 
+                                <li><b>Teaching Assistant at IIIT-H (Mar 2021 - May 2021)</b> <br>
+                                    Linear Algebra Teaching Assistant for Spring Semester 2021.
                                 </li>
-                                <li><span class="label label-default">Web Developer at VLEAD, IIIT-H</span> (Aug. 2018 - Nov. 2018) <br>
-                                Worked, in a team of 3, to create a web application for interactive online learning modules.
+                                <li><b>Problem Setter at Hackerrank (Jun 2019 - Oct 2019)</b> <br>
+                                    Worked as a problem setter for Hackerrank. Prepared various original programming and algorithmic problems along with strong testcases.
+                                </li>
+                                <li><b>Web Developer at VLEAD, IIIT-H (Aug 2018 - Nov 2018)</b> <br>
+                                Worked, in a team of 3, to create a web application for interactive online learning modules. 
                                 </li>
                             </ul>
                         </ul>
@@ -261,11 +278,81 @@
         </section>
     
  
-         <!-- Courses Section -->
+         
+
+
+        <!-- Publications Section -->
+
+        <section  name="publications" id="publications">
+            <div class="container lead">
+                <div style="text-align: left; margin-top:10px" class="col-md-12">
+                    
+                    <b class="noshow" style="display:none;" id="tab-5">
+                        <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-publications-content').toggle();">Publications  <span class="glyphicon glyphicon-chevron-down"></span></button>
+                    </b>
+                    <div class="allshow" style="display:none;" id="tab-publications-content">
+                        <hr class="star-primary">
+                        <h2>Publications </h2>
+                        <ul> 
+                             
+                                <!-- <div class style="background-color:rgb(170, 170, 170);"> -->
+                                <i style="font-size:24px">Preprints / Under Review</i>
+                            
+                        <ol> 
+                            <li> Athreya Chandramouli, <b>Abhinav Vaishya</b>, Prasad  Krishnan, "Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage", submitted to IEEE Information Theory Workshop (ITW), 2022. <a href="https://arxiv.org/abs/2205.06257"><span class="label label-primary" >Arxiv&raquo</a>
+                            </li>   
+
+                    </div>
+                </div>
+            </div>
+        </section>
+
+   
+        
+        <!-- Home Section -->
+
+        
+        
+        <!-- Home Section -->
+        <section  name="contact" id="contact">
+            <div class="container lead">
+                <div style="text-align: left; margin-top:10px" class="col-md-12">
+                    <b class="noshow" style="display:none;" id="tab-10">
+                        <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-contact-content').toggle();">Contact  <span class="glyphicon glyphicon-chevron-down"></span></button>
+                    </b>
+                    <div class="allshow" style="display:none;" id="tab-contact-content">
+                         <hr class="star-primary">
+                        <h2>Contact</h2>    
+                        <a href="https://www.linkedin.com/in/abhinavvaishya/" class="fa fa-linkedin" style="font-size:30px"></a>
+                        <a href="mailto:abhinav.vaishya@research.iiit.ac.in" class="fa fa-envelope" style="font-size:30px"></a>
+                        <a href="https://github.com/abhinav-vaishya/" class="fa fa-github" style="font-size:30px"></a>
+                    
+        
+        <hr class="star-primary">
+        <footer>
+            <small>
+                <center>
+                    © 2021 | Abhinav Vaishya. Credits: AR template
+                    <a onclick="javascript:$('#credit').toggle();"><img border="0" src="images/ccby.png"/></a>
+                    <div style="display:none;" id="credit">[AR template available under Creative Commons CC BY 4.0 licence:
+                        <a href="https://github.com/dmsl/academic-responsive-template" target="_blank">
+                            https://github.com/dmsl/academic-responsive-template
+                        </a> ]
+                    </div>
+                </center>
+            </small>
+        </footer>
+        
+    </body>
+    
+</html>
+
+
+<!-- Courses Section -->
      
 
         <!-- Courses Section -->
-        <section  name="courses" id="courses">
+        <!-- <section  name="courses" id="courses">
             <div class="container lead">
                 <div style="text-align: left; margin-top:10px" class="col-md-12">
                     
@@ -313,52 +400,10 @@
                 </div>
             </div>
         </section>
-        
+         -->
         <!-- Courses Section -->
    
        <!--  <a href="http://stuff.mit.edu/doc/counter-howto.html"><img 
 src="http://stuff.mit.edu/cgi/counter/abhinav-vaishya" alt="several"></a> -->
         
         <!-- Courses Section -->
-   
-        
-        <!-- Home Section -->
-
-        
-        
-        <!-- Home Section -->
-        <section  name="contact" id="contact">
-            <div class="container lead">
-                <div style="text-align: left; margin-top:10px" class="col-md-12">
-                    <b class="noshow" style="display:none;" id="tab-10">
-                        <button class="btn btn-default btn-lg btn-block"  style="display: block; width: 100%;" onclick="javascript:$('#tab-contact-content').toggle();">Contact  <span class="glyphicon glyphicon-chevron-down"></span></button>
-                    </b>
-                    <div class="allshow" style="display:none;" id="tab-contact-content">
-                         <hr class="star-primary">
-                        <h2>Contact</h2>    
-                        <a href="https://www.linkedin.com/in/abhinavvaishya/" class="fa fa-linkedin"></a>
-                        <a href="mailto:abhinav.vaishya@research.iiit.ac.in" class="fa fa-envelope"></a>
-                        <a href="https://github.com/abhinav-vaishya/" class="fa fa-github"></a>
-                    </div>
-                </div>
-            </div>
-        </section>
-        
-        <hr class="star-primary">
-        <footer>
-            <small>
-                <center>
-                    © 2021 | Abhinav Vaishya. Credits: AR template
-                    <a onclick="javascript:$('#credit').toggle();"><img border="0" src="images/ccby.png"/></a>
-                    <div style="display:none;" id="credit">[AR template available under Creative Commons CC BY 4.0 licence:
-                        <a href="https://github.com/dmsl/academic-responsive-template" target="_blank">
-                            https://github.com/dmsl/academic-responsive-template
-                        </a> ]
-                    </div>
-                </center>
-            </small>
-        </footer>
-        
-    </body>
-    
-</html>
