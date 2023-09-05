@@ -1,0 +1,215 @@
+---
+---
+
+@import "jekyll-theme-primer.scss";
+@import "./tooltips.scss";
+
+// Fonts
+b, strong {
+  font-weight: 700;
+}
+
+// profile pic
+.profile-pic {
+  img {
+    float: right;
+    margin: 0px 25px 25px 25px;
+    max-width: 100%;
+    width: 150px;
+    border-radius: 50%;
+    @media only screen and (max-width: 50rem) {
+      display: block;
+      float: none;
+      margin: 0 auto;
+    }
+  }
+}
+
+// color scheme: https://www.materialui.co/colors
+
+.blog-index {
+  .blog-summary {
+    padding-bottom: 1em;
+    border-bottom: 1px dashed #dadada;
+
+    .blog-title {
+      margin-bottom: 0;
+      border-bottom: none;
+      text-decoration: underline;
+      text-decoration-color: blue;
+    }
+    .blog-meta {
+      margin-bottom: 10px;
+      .blog-date {
+        color: #586069;
+      }
+      .tags {
+        float: right;
+      }
+    }
+    .excerpt p {
+      margin-bottom: 0;
+    }
+    .read-more {
+      display: inline;
+    }
+  }
+}
+
+.tags {
+  font-style: italic;
+  display: inline;
+  .tag {
+    display: inline;
+    text-decoration: underline;
+  }
+}
+.tags a {
+  color: #586069;
+}
+.center {
+  text-align: center;
+}
+
+.markdown-body blockquote {
+  color: #004D40;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+.footnotes {
+  border-top: 1px #e1e4e8 dashed !important;
+  padding-top: 20px;
+  margin-top: 20px;
+  color: #424242;
+  li p {
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+}
+details {
+  summary {
+    p {
+      display: inline;
+    }
+  }
+  background-color:  #e6e1e8;
+  border-radius: 5px;
+  padding-left: 1%;
+}
+
+// Blog search
+.results-container {
+  list-style: none;
+  padding-left: 0 !important;
+  li {
+    padding: .75rem 1.25rem;
+    border: 1px solid rgba(0,0,0,.125);
+    margin-top: 0 !important;
+  }
+}
+
+// Links
+a {
+  color: #1772d0;
+  text-decoration: none;
+  &:focus, &:hover {
+    color: #f09228;
+  }
+}
+
+// Navigation Menu
+.nav-menu-holder {
+  background-color: #EEEEEE;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  border-color: #B0BEC5;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+#nav-menu {
+  font-size: 20px;
+  font-weight: 500;
+  a {
+    color: #2f2f2f;
+    &:focus, &:hover {
+      color: #f09228;
+      text-decoration: none;
+    }
+  }
+  .active-el {
+    font-weight: 700;
+  }
+}
+
+// Footer Menu
+.footer {
+  clear: both;
+  .row {
+    p {
+      padding-right: 0.5em;
+      padding-left: 0.5em;
+      border-right: solid;
+      border-width: 2px;
+      font-size: small;
+      &:last-child {
+        border-right: none;
+      }
+    }
+    img {
+      height: 1em;
+    }
+    .footer-links {
+      padding-left: 1px;
+      padding-right: 1px;
+    }
+  }
+}
+
+/*** ScrollToTop Button for blogs ***/
+.scrollBtn {
+  a {
+    display: inline-block;
+    transition: background-color .3s, opacity .5s, visibility .5s;
+    opacity: 0;
+    visibility: hidden;
+    z-index: 1000;
+    position: fixed;
+    right: 30px;
+    svg {
+      filter: drop-shadow(0 2px 5px rgba(0,0,0,.8));
+    }
+  }
+
+  #scrollToTopBtn {
+    bottom: 30px;
+  }
+  #scrollToBottomBtn {
+    bottom: 30px;
+  }
+
+  &:hover {
+    cursor: pointer;
+    background-color: #333;
+  }
+  &:active {
+    background-color: #555;
+  }
+}
+
+.show {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+// copy button
+.copy-btn-text {
+  border: none;
+  color: #1772d0;
+  background: none;
+  &:hover {
+    color: #f09228;
+    text-decoration: underline;
+  }
+}
+
+

@@ -1,0 +1,11 @@
+---
+title: "Blogs - Full List"
+---
+
+{% include search.html %}
+
+<ol reversed>
+{% for blog in site.posts %}
+  <li class="my-0"><a href="{{blog.url}}">{{ blog.title }}</a></li>
+{% endfor %}
+</ol>

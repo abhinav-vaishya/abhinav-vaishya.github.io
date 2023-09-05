@@ -1,0 +1,28 @@
+<div class="nav-menu-holder">
+  <div class="container-lg px-3 my-1">
+    <header id="nav-menu">
+      <div class="row center-xs start-sm">
+        <div class="col-xs-12 col-sm-7">
+          <div class="box {% if page.url == '/' %} active-el {% endif %}">
+            <!-- <a href="/">{{ site.title | upcase }}</a> -->
+            <a href="/">{{ site.title }}</a>
+
+          </div>
+        </div>
+        <div class="col-xs-12 col-sm-5">
+          <div class="row around-xs around-sm">
+            {% for page_info in site.data.nav %}
+              <div class="col-xs col-sm">
+                <div class="box center {% if page.url contains page_info.url %} active-el {% endif %}">
+                  <a href="{{ page_info.url | relative_url }}" class="nav-item" {% if page.new_tab %}target="_blank"{% endif %}>
+                    {{ page_info.title }}
+                  </a>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+</div>

@@ -1,0 +1,31 @@
+<!-- mathjax: from http://csega.github.io/mypost/2017/03/28/how-to-set-up-mathjax-on-jekyll-and-github-properly.html -->
+<script>
+window.MathJax = {
+  loader: {
+    load: [
+        'input/asciimath',
+        '[tex]/noerrors',
+        '[tex]/braket'
+      ]
+  },
+  tex: {
+    inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+    displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+    autoload: {
+      color: [],
+      colorv2: ['color']
+    },
+    packages: {
+      '[+]': [
+          'noerrors',
+          'braket'
+        ],
+    }
+  },
+  options: {
+    ignoreHtmlClass: 'tex2jax_ignore',
+    processHtmlClass: 'tex2jax_process'
+  }
+};
+</script>
+<script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>

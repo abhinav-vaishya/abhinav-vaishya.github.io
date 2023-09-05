@@ -1,0 +1,16 @@
+<script type="text/javascript">
+(function() {
+  var clipboard = new ClipboardJS('.copy-btn');
+  var btns = document.querySelectorAll('.copy-btn');
+  for (var i = 0; i < btns.length; i++) {
+    btns[i].addEventListener('mouseleave',clearTooltip);
+    btns[i].addEventListener('blur',clearTooltip);
+  }
+  function clearTooltip(e){
+    $(e.currentTarget).removeClass('tooltipped');
+  }
+  clipboard.on('success', function (e) {
+    $(e.trigger).addClass('tooltipped');
+  });
+})();
+</script>

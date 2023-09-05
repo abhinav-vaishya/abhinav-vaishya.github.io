@@ -1,0 +1,14 @@
+- title: Blog
+  url: /blogs/
+
+- title: Research
+  url: /Interests/
+
+- title: CV
+  url: files/CV.pdf
+  new_tab: true
+
+# - title: Gallery
+#   url: /Gallery.html
+# - title: Contact
+#   url: /Contact.html
