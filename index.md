@@ -2,6 +2,7 @@
 description: "Personal Site and Blog"
 ---
 
+
 <div class="profile-pic">
 <img src="/assets/profile-picture.jpg"/>
 </div>
@@ -25,6 +26,7 @@ description: "Personal Site and Blog"
   Details about my research work are available <a href="/Interests/">here.</a> I (plan to) write up about things that I learn in <a href="/blogs/">my blog.</a>
 </p> 
 
+Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
 
 ### Timeline
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;border: 1px solid black;border-color: black;"><tbody>
