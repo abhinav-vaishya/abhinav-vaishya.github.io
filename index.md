@@ -23,7 +23,7 @@ description: "Personal Site and Blog"
         problems that are algorithmic, algebraic, or combinatorial in nature.
 </p>
 <p>
-  Details about my research work are available <a href="/Interests/">here.</a> I (plan to) write up about things that I learn in <a href="/blogs/">my blog.</a>
+  Details about my research work are available <a href="/Research/">here.</a> I (plan to) write up about things that I learn in <a href="/blogs/">my blog.</a>
 </p> 
 
 Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
@@ -34,11 +34,12 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
             <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
               <!-- <heading style="color: #084298;">News</heading> -->
               <ul>
+              	<li style="color: #084298;"><strong><em> September 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> got accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.</li>
                 <li style="color: #084298;"><strong><em> July 2023: </em></strong>Started working under Prof. <a  href = "https://ece.iisc.ac.in/~pvkece/">P Vijay Kumar </a> at IISc, Bengaluru.</li>
                 <li style="color: #084298;"><strong><em> June 2023: </em></strong>Defended my Master's Thesis, titled <em>"Low Complexity Cache-Aided Communication Schemes for Distributed
 				Data Storage and Distributed Computing". </em>[<a href="files/Thesis_Defense_Abhinav.pdf">Slides</a>]</li>
                 <li style="color: #084298;"><strong><em> June 2023: </em></strong>Attended the <a  href = "https://ece.iisc.ac.in/~jtg/2023/index.html">JTG/IEEE ITSoc Summer School 2023 </a> at IISc, Bengaluru.</li>
-                <li style="color: #084298;"><strong><em> January 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> is now on arXiv.</li>
+                <!-- <li style="color: #084298;"><strong><em> January 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> is now on arXiv.</li> -->
                 <li style="color: #084298;"><strong><em> January 2023: </em></strong>Started working as a Teaching Assistant for the course Information-Theoretic Methods in Computer Science at IIIT-H.</li>
                 <li style="color: #084298;"><strong><em> November 2022: </em></strong>Presented our paper <a  href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> at  <a href = "https://itw2022.in/">ITW, 2022.</a> [<a href="files/ITW2022_CDR_Presentation.pdf">Slides</a>]</li>
                 <li style="color: #084298;"><strong><em> August 2022: </em></strong>My first paper got accepted at <a href = "https://itw2022.in/">ITW, 2022.</a></li>
