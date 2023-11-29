@@ -9,7 +9,7 @@ description: "Personal Site and Blog"
 <!-- ### About me -->
 
 <p>
-        I am a Project Associate at IISc, Bengaluru under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>. I am currently learning Quantum Error Correction.
+        I am a Project Associate at IISc, Bengaluru under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>. I am currently studying Quantum Error Correction.
 </p>
 <p>
         Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
@@ -109,7 +109,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
                  Hyderabad &nbsp; · &nbsp; <em> May 2019 - Jun 2020  </em>
               <br><br>
               <ul>
-                <li>A software framework for annotation and analysis of manuscript document images (showcased at a workshop, ICDAR, 2019).</li>
+                <li>A software framework for annotation and analysis of manuscript document images (showcased at a workshop, ICDAR, 2019)</li>
               </ul>
             </td>
           </tr>   
@@ -130,9 +130,9 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
                  Hyderabad &nbsp; · &nbsp; <em> Jan 2023 - May 2023 </em> &nbsp; · &nbsp; <em> Feb 2022 - May 2022  </em> &nbsp; · &nbsp; <em> Mar 2021 - May 2021  </em>
               <br><br>
               <ul>
-                <li>Information-Theoretic Methods in Computer Science, Spring '23. </li>
-                <li> Introduction to Coding Theory, Spring '22. </li>
-                <li> Linear Algebra, Spring '21. </li>
+                <li>Information-Theoretic Methods in Computer Science, Spring '23 </li>
+                <li> Introduction to Coding Theory, Spring '22 </li>
+                <li> Linear Algebra, Spring '21 </li>
               </ul>
             </td>
           </tr>  

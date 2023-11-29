@@ -4,11 +4,11 @@ prefix_anchors: true
 ---
 
 ### Research Interests
-- Quantum Error Correction (Currently learning)
-- Codes for Distributed Storage.
+- Quantum Error Correction (Currently studying)
+- Codes for Distributed Storage
 - Coding Theory for Blockchains
 - Applying Combinatorics and Coding-Theoretic ideas to problems in Broadcast Communications \
-(e.g., Coded Caching, Coded Data Rebalancing, Coded Distributed Computing, etc.). 
+(e.g., Coded Caching, Coded Data Rebalancing, Coded Distributed Computing, etc.)
 
 
 
@@ -18,7 +18,7 @@ prefix_anchors: true
 <a href="https://scholar.google.co.in/citations?user=YLYLvJ4AAAAJ&hl=en/"> Shailja Agrawal</a>, <a href="https://scholar.google.co.in/citations?user=xRnIXxUAAAAJ&hl=en"> K V Sushena Sree</a>, <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Prasad Krishnan</a>, <strong>Abhinav Vaishya</strong>, <a href="https://www.linkedin.com/in/srikar1234/">Srikar Kale</a><br>
 [<a href="https://ieeexplore.ieee.org/document/10268092">IEEE</a>]
 [<a href="https://arxiv.org/abs/2302.03452">arXiv</a>] <br><br>
-We present new coded caching and distributed computing schemes using binary matrices arising out of combinatorial designs and their q-analogs.<br><br>
+We present new coded caching and distributed computing schemes using binary matrices arising out of combinatorial designs and their q-analogs (subspace designs).<br><br>
 <strong>My contribution:</strong> Subspace Design based schemes.
               
 
