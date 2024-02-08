@@ -9,7 +9,7 @@ description: "Personal Site and Blog"
 <!-- ### About me -->
 
 <p>
-        I am a Project Associate at IISc, Bengaluru under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>. I am currently studying Quantum Error Correction.
+        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. I am currently studying Quantum Error Correction, specifically GKP codes.
 </p>
 <p>
         Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
@@ -19,7 +19,7 @@ description: "Personal Site and Blog"
         networks.
 </p>
 <p>
- 		My research interests lie broadly in Coding Theory. I enjoy working on
+ 		My research interests lie broadly in (Algebraic) Coding Theory. I enjoy working on
         problems that are algorithmic, algebraic, or combinatorial in nature.
 </p>
 <p>
@@ -34,6 +34,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
             <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
               <!-- <heading style="color: #084298;">News</heading> -->
               <ul>
+                <li style="color: #084298;"><strong><em> January 2024: </em></strong>Auditing the course <a href="https://ece.iisc.ac.in/~nkashyap/E2_210/">Quantum Error-Correcting Codes </a> taught by <a href="https://ece.iisc.ac.in/~nkashyap/">Prof. Navin Kashyap </a> at IISc, Bengaluru.</li>
               	<li style="color: #084298;"><strong><em> September 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> got accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.</li>
                 <li style="color: #084298;"><strong><em> July 2023: </em></strong>Started working under Prof. <a  href = "https://ece.iisc.ac.in/~pvkece/">P Vijay Kumar </a> at IISc, Bengaluru.</li>
                 <li style="color: #084298;"><strong><em> June 2023: </em></strong>Defended my Master's Thesis, titled <em>"Low Complexity Cache-Aided Communication Schemes for Distributed
@@ -59,7 +60,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
             <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>Indian Institute of Science (IISc), Bengaluru</strong>
               <br>
-                Project Associate under <a  href = "https://ece.iisc.ac.in/~pvkece/">Dr. P Vijay Kumar</a>
+                Research Associate under <a  href = "https://ece.iisc.ac.in/~pvkece/">Dr. P Vijay Kumar</a>
               <br>
                  Bengaluru &nbsp; · &nbsp; <em> July 2023 - Present  </em>
               <br><br>
