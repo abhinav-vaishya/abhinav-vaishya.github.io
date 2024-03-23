@@ -5,10 +5,8 @@
   url: /Research/
 
 - title: CV
-  url: files/CV.pdf
-  new_tab: true
+  url: /CV/
+  # new_tab: true
 
-# - title: Gallery
-#   url: /Gallery.html
-# - title: Contact
-#   url: /Contact.html
+# - title: Misc
+#   url: /Misc.html

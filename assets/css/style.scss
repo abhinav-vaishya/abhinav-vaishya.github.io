@@ -4,6 +4,7 @@
 @import "jekyll-theme-primer.scss";
 @import "./tooltips.scss";
 
+
 // Fonts
 b, strong {
   font-weight: 700;
@@ -92,7 +93,6 @@ details {
       display: inline;
     }
   }
-  background-color:  #e6e1e8;
   border-radius: 5px;
   padding-left: 1%;
 }
