@@ -20,7 +20,7 @@ description: "Personal Site and Blog"
 </p>
 <p>
  		My research interests lie broadly in (Algebraic) Coding Theory. I enjoy working on
-        problems that are algorithmic, algebraic, or combinatorial in nature.
+        problems that are algebraic, algorithmic, or combinatorial in nature.
 </p>
 <p>
   Details about my research work are available <a href="/Research/">here.</a> I (plan to) write up about things that I learn in <a href="/blogs/">my blog.</a>
@@ -77,7 +77,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
               <br>
                 Research Intern under <a href="https://sites.google.com/site/rawadbitar1/">Dr. Rawad Bitar</a>
               <br>
-                 Remote &nbsp; · &nbsp; <em> June 2022 - Present  </em>
+                 Remote &nbsp; · &nbsp; <em> June 2022 - June 2023  </em>
               <br><br>
               <ul>
                 <li> Codes for Distributed Storage </li>
