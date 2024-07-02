@@ -6395,3 +6395,7 @@ a {
   .copy-btn-text:hover {
     color: #f09228;
     text-decoration: underline; }
+
+iframe {
+  width: 100%;
+  height: 100vh; }
