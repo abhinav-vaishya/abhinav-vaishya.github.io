@@ -4,12 +4,12 @@ description: "Personal Site and Blog"
 
 
 <div class="profile-pic">
-<img src="/assets/profile-picture.jpg"/>
+<img src="/assets/images/profile-picture.jpg"/>
 </div>
 <!-- ### About me -->
 
 <p>
-        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. I am currently studying Quantum Error Correction, specifically GKP codes.
+        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. I am currently studying Quantum Error Correction, specifically GKP codes (through the lens of Lattice Theory).
 </p>
 <p>
         Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
@@ -56,7 +56,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
 <table style="width:100%;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0;border: 1px;background-color: white;border-color: white;"><tbody>
           <!--  Project Associate at IISc  -->
           <tr>
-            <td style="width:30%;vertical-align:middle;border-color: white;background-color: white;max-width: 200px;min-width: 160px; max-height: 200px; min-height: 160px"><img src="assets/iisc.jpg" width="80%" height="80%"> </td>
+            <td style="width:30%;vertical-align:middle;border-color: white;background-color: white;max-width: 200px;min-width: 160px; max-height: 200px; min-height: 160px"><img src="assets/images/iisc.jpg" width="80%" height="80%"> </td>
             <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>Indian Institute of Science (IISc), Bengaluru</strong>
               <br>
@@ -71,7 +71,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
           </tr>
           <!-- Research intern at TUM                -->
           <tr>
-            <td  style="width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: white"><img src="assets/TUM.png"  width="80%" height="80%"></td>
+            <td  style="width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: white"><img src="assets/images/TUM.png"  width="80%" height="80%"></td>
               <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>Technical University of Munich</strong>
               <br>
@@ -86,7 +86,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
             </td>
           </tr>
           <tr>
-            <td style="width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: #fff"><img src="assets/spcrc.jpg"  width="80%" height="80%"></td>
+            <td style="width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: #fff"><img src="assets/images/spcrc.jpg"  width="80%" height="80%"></td>
               <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>Signal Processing and Communications Research Center, IIIT-H</strong>
               <br>
@@ -101,7 +101,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
             </td>
           </tr>
           <tr>
-            <td style="padding-left:40px;padding-top:50px;padding-bottom:50px;width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: #fff"><img src="assets/cvit.jpg"  width="70%" height="70%"></td>
+            <td style="padding-left:40px;padding-top:50px;padding-bottom:50px;width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: #fff"><img src="assets/images/cvit.jpg"  width="70%" height="70%"></td>
               <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>Center for Visual Information Technology, IIIT-H</strong>
               <br>
@@ -122,7 +122,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0;border: 0px white;background-color: #cfe2ff;border-color: white;"><tbody>
           <!-- TA -->
           <tr>
-            <td style="width:30%;vertical-align:middle;border-color: white;background-color: white;max-width: 200px;min-width: 160px; max-height: 200px; min-height: 160px"><img src="assets/iiith.png" width="80%" height="80%"> </td>
+            <td style="width:30%;vertical-align:middle;border-color: white;background-color: white;max-width: 200px;min-width: 160px; max-height: 200px; min-height: 160px"><img src="assets/images/iiith.png" width="80%" height="80%"> </td>
             <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>International Institute of Information Technology, Hyderabad (IIIT-H)</strong>
               <br>
@@ -139,7 +139,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
           </tr>  
           <!-- Problem Setter at Hackerrank -->
           <tr>
-            <td style="width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: #fff"><img src="assets/hackerrank_logo.png"  width="80%" height="80%"></td>
+            <td style="width:30%;vertical-align:middle;margin-left: auto; margin-right: auto;border-color: white;background-color: #fff"><img src="assets/images/hackerrank_logo.png"  width="80%" height="80%"></td>
             <td   style="border-color: white;background-color: #fff;padding-right:0px;padding-left: 50px">
               <strong>Hackerrank</strong>
               <br>
@@ -160,7 +160,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
 <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0;border: 0px white;background-color: #cfe2ff;border-color: white;"><tbody>
           <!-- TA -->
           <tr>
-            <td style="width:30%;vertical-align:middle;border-color: white;background-color: white;max-width: 200px;min-width: 160px; max-height: 200px; min-height: 160px"><img src="assets/iiith.png" width="80%" height="80%"> </td>
+            <td style="width:30%;vertical-align:middle;border-color: white;background-color: white;max-width: 200px;min-width: 160px; max-height: 200px; min-height: 160px"><img src="assets/images/iiith.png" width="80%" height="80%"> </td>
             <td style="padding-left: 50px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>International Institute of Information Technology, Hyderabad (IIIT-H)</strong>
               <br>

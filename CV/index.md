@@ -7,5 +7,5 @@ title: CV
 <!-- <object data="/files/CV.pdf" width="100%" height="100vh" type='application/pdf'></object> -->
 
 
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://abhinav-vaishya.github.io/files/CV.pdf" width="100%" height="100vh" style="border: none;"></iframe>
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://abhinav-vaishya.github.io/files/CV.pdf" width="100%" height="100vh" style="border: 2px solid black;"></iframe>
 
