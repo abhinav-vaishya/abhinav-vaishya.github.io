@@ -8,17 +8,39 @@ Below are some (non-academic) interests that came to my mind while writing this.
 #### Running
 Since early childhood, I have been a (good enough) sprinter. Recently (around November 2023), I got into long-distance running and I have been mostly quite consistent. I also lift weights regularly to enhance my running efficiency and performance. 
 
-<img class="image" src="/assets/images/running.jpg" style="display: block; margin: auto;" width="30%" height="40%">
+<details>	
+<summary>
+_Photo_
+</summary> 
+
+<img class="image" src="/assets/images/running.jpg" style="display: block; margin: auto;" 
+width="30%" height="40%">
+
+</details>
 
 #### Climbing
 I had my first climbing session in January 2023. Absolutely loved it. Since then, I've been into climbing (not as seriously as running though). 
 
+<details>	
+<summary>
+_Photo_
+</summary>
+
 <img class="image" src="/assets/images/climbing.jpg" style="display: block; margin: auto;" width="30%" height="40%">
+
+</details>
 
 #### Trekking/Hiking
 I've always loved mountains. In October 2023, I did my first (kind-of) long trek in Himachal Pradesh, India. After that, I did a few short treks in southern India. I plan to go on many more!
 
+<details>	
+<summary>
+_Photo_
+</summary>
+
 <img class="image" src="/assets/images/trekking.jpg" style="display: block; margin: auto;" width="30%" height="40%">
+
+</details>
 
 #### Cricket
 Since childhood, I have been very much into cricket. My favourite player is Virat Kohli. I also play cricket whenever I get a chance. I like both - batting and bowling.
