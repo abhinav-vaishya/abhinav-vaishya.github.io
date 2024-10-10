@@ -6,7 +6,7 @@ title: CV
 
 <!-- <object data="/files/CV.pdf" width="100%" height="100vh" type='application/pdf'></object> -->
 
-(Please try refreshing if the CV doesn't appear or click <a href="https://github.com/abhinav-vaishya/abhinav-vaishya.github.io/blob/main/files/CV.pdf">here.</a>)
+(Please try refreshing if the CV doesn't appear or click <a href="https://drive.google.com/file/d/0B_-UWVNH9JJ6TGJUSWxTeVRUdnE2NWNHb1RFeF85aTVveE9B/view?usp=sharing&resourcekey=0-vwpnsYnOiDAHvWzw-xRjKg">here.</a>)
 
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://abhinav-vaishya.github.io/files/CV.pdf" width="100%" height="100vh" style="border: 2px solid black;"></iframe>
+<iframe src="https://drive.google.com/file/d/0B_-UWVNH9JJ6TGJUSWxTeVRUdnE2NWNHb1RFeF85aTVveE9B/preview" width="100%" height="100vh" style="border: 2px solid black;"></iframe>
 
