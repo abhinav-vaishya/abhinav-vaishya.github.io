@@ -5,9 +5,9 @@ prefix_anchors: true
 
 ### Research Interests
 - Quantum Error Correction (Currently studying)
+- Graph-based Codes
 - Fundamental Problems in Algebraic Coding Theory
 - Codes for Distributed Storage
-- Coding Theory for Blockchains
 - Applying Combinatorics and Coding-Theoretic ideas to problems in Broadcast Communications \
 (e.g., Coded Caching, Coded Data Rebalancing, Coded Distributed Computing, etc.)
 
