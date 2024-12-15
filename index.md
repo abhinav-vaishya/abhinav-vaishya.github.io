@@ -9,7 +9,7 @@ description: "Personal Site and Blog"
 <!-- ### About me -->
 
 <p>
-        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. I am currently studying Quantum Error Correction, specifically GKP codes (through the lens of Lattice Theory).
+        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. My research focus is Quantum Error-Correcting Codes.
 </p>
 <p>
         Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
@@ -19,7 +19,7 @@ description: "Personal Site and Blog"
         networks.
 </p>
 <p>
- 		My research interests lie broadly in (Algebraic) Coding Theory. I enjoy working on
+ 		My research interests lie broadly in Coding Theory. I enjoy working on
         problems that are algebraic, algorithmic, or combinatorial in nature.
 </p>
 <p>
@@ -81,7 +81,7 @@ Email: <a href="mailto:abhinavv@iisc.ac.in">abhinavv@iisc.ac.in</a>
               <br><br>
               <ul>
                 <li> Codes for Distributed Storage </li>
-                <li> Coding Theory for Blockchains (Literature Review) </li>
+                <li> Coding Theory for Blockchains </li>
               </ul>
             </td>
           </tr>
