@@ -9,7 +9,7 @@ description: "Personal Site and Blog"
 <!-- ### About me -->
 
 <p>
-        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. My research focus is Quantum Error-Correcting Codes.
+        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. My research focus is Erasure Decoding of Quantum LDPC codes.
 </p>
 <p>
         Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
@@ -34,6 +34,8 @@ Email: <a href="mailto:vaishyaabhinav@gmail.com">vaishyaabhinav@gmail.com</a>
             <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
               <!-- <heading style="color: #084298;">News</heading> -->
               <ul>
+                <li style="color: #084298;"><strong><em> April 2025: </em></strong>Will be attending the school and workshop on <a href="https://www.icts.res.in/program/HDXandCodes">HDXs and Codes </a> at ICTS, Bengaluru.</li>
+                <li style="color: #084298;"><strong><em> April 2025: </em></strong>Our paper <em>On the Efficacy of the Peeling Decoder for the Quantum Expander Code</em> got accepted at ISIT, 2025.</li>
                 <li style="color: #084298;"><strong><em> January 2024: </em></strong>Auditing the course <a href="https://ece.iisc.ac.in/~nkashyap/E2_210/">Quantum Error-Correcting Codes </a> taught by <a href="https://ece.iisc.ac.in/~nkashyap/">Prof. Navin Kashyap </a> at IISc, Bengaluru.</li>
               	<li style="color: #084298;"><strong><em> September 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> got accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.</li>
                 <li style="color: #084298;"><strong><em> July 2023: </em></strong>Started working under <a  href = "https://ece.iisc.ac.in/~pvkece/"> Prof. P Vijay Kumar </a> at IISc, Bengaluru.</li>
