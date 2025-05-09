@@ -6399,3 +6399,18 @@ a {
 iframe {
   width: 100%;
   height: 100vh; }
+
+.social-icons p {
+  display: inline-block;
+  margin-right: 15px; }
+
+.social-icons a {
+  color: #084298;
+  /* Keep default text color */
+  margin-right: 15px;
+  /* Optional spacing */
+  text-decoration: none; }
+
+.social-icons a:hover {
+  color: #084298;
+  /* Prevent color change on hover */ }
