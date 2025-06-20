@@ -1,7 +1,7 @@
 [
   
     {
-      "title"    : "ICTS HDX and Codes - Lecture Notes on Codes 2",
+      "title"    : "ICTS HDX and Codes: Lecture Notes on Codes 2",
       "category" : "",
       "tags"     : "notes",
       "url"      : "/blogs/2025/05/09/icts2.html",
@@ -9,19 +9,11 @@
     } ,
   
     {
-      "title"    : "ICTS HDX and Codes - Lecture Notes on Codes 1",
+      "title"    : "ICTS HDX and Codes: Lecture Notes on Codes 1",
       "category" : "",
       "tags"     : "notes",
       "url"      : "/blogs/2025/05/09/icts.html",
       "date"     : "2025-05-09 00:00:00 +0530"
-    } ,
-  
-    {
-      "title"    : "Welcome to my Blog",
-      "category" : "",
-      "tags"     : "sample-blog",
-      "url"      : "/blogs/2023/09/03/sample1.html",
-      "date"     : "2023-09-03 00:00:00 +0530"
     } 
   
 ]

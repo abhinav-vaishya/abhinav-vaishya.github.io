@@ -35,8 +35,6 @@ description: "Personal Site and Blog"
   <p><a href="https://scholar.google.com/citations?user=fQ7Kb44AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a></p>
   <p><a href="mailto:vaishyaabhinav@gmail.com" title="Email">
   <i class="fas fa-envelope fa-2x"></i></a></p>
-  <p><a href="https://twitter.com/awbhinav" target="_blank" title="X (formerly Twitter)">
-  <i class="fab fa-x-twitter fa-2x"></i></a></p>
 </div>
 
 

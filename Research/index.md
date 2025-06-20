@@ -5,6 +5,7 @@ prefix_anchors: true
 
 ### Research Interests
 - Quantum Error-Correcting Codes, specifically erasure decoding of Quantum LDPC codes.
+- Graph-based Codes
 - Combinatorial and Algorithmic Problems in Coding Theory
 - Codes for Distributed Storage
 - Applying Combinatorics and Coding-Theoretic ideas to problems in Broadcast Communications \

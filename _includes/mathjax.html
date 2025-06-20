@@ -20,7 +20,21 @@ window.MathJax = {
           'noerrors',
           'braket'
         ],
-    }
+    },
+    tags: 'ams',
+    macros: {
+      comm: ["\\left[ #1 , #2 \\right]", 2],
+      hA: "\\hat{A}",
+      hB: "\\hat{B}",
+      hD: "\\hat{D}",
+      hX: "\\hat{X}",
+      hT: "\\hat{T}",
+      ha: "\\hat{a}",
+      hp: "\\hat{p}",
+      hq: "\\hat{q}",
+      dag: "\\dagger",
+      braket: ["\\left\\langle #1 \\right\\rangle", 1]
+    } 
   },
   options: {
     ignoreHtmlClass: 'tex2jax_ignore',
