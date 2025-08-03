@@ -45,6 +45,7 @@ description: "Personal Site and Blog"
             <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
               <!-- <heading style="color: #084298;">News</heading> -->
               <ul>
+                <li style="color: #084298;"><strong><em> June 2025: </em></strong>Our paper titled <em>An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes</em> got accepted at ITW, 2025. (Preprint to be out soon)</li>
                 <li style="color: #084298;"><strong><em> April 2025: </em></strong>Attended the school and workshop on <a href="https://www.icts.res.in/program/HDXandCodes">HDXs and Codes </a> at ICTS, Bengaluru.</li>
                 <li style="color: #084298;"><strong><em> April 2025: </em></strong>Our paper <a href="https://arxiv.org/abs/2504.21845">On the Efficacy of the Peeling Decoder for the Quantum Expander Code</a> got accepted at ISIT, 2025.</li>
                 <li style="color: #084298;"><strong><em> January 2024: </em></strong>Auditing the course <a href="https://ece.iisc.ac.in/~nkashyap/E2_210/">Quantum Error-Correcting Codes </a> taught by <a href="https://ece.iisc.ac.in/~nkashyap/">Prof. Navin Kashyap </a> at IISc, Bengaluru.</li>
