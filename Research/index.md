@@ -35,14 +35,15 @@ We present new coded caching and distributed computing schemes using binary matr
               
 #### Conferences
 
-- <em>An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes, </em>accepted at IEEE Information Theory Workshop (ITW), 2025.<br>
+- <em>An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes, </em>IEEE Information Theory Workshop (ITW), 2025.<br>
 Gayathri R., Shobhit Bhatnagar, <strong>Abhinav Vaishya</strong>, P Vijay Kumar<br>
-[<a href="/../files/ITW_2025_BP_Decimation.pdf">preprint</a>]<br><br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/11240302">IEEE</a>]<br><br>
 We present an improved decimation technique for belief-propagation-based erasure decoding of Quantum LDPC Codes and show our results through simulations.
 
 
 - <em>On the Efficacy of the Peeling Decoder for the Quantum Expander Code, </em>IEEE International Symposium on Information Theory (ISIT), 2025.<br>
 Jefrin Sharmitha Prabhu*, <strong> Abhinav Vaishya*</strong>, Shobhit Bhatnagar, Aryaman Manish Kolhe, V. Lalitha, P. Vijay Kumar<br>
+[<a href="https://ieeexplore.ieee.org/abstract/document/11195550">IEEE</a>]
 [<a href="https://arxiv.org/abs/2504.21845">arXiv</a>]<br><br>
 We study the efficacy of the peeling decoder for a class of Hypergraph Product Codes, known as Quantum Expander Codes. We also modify the Small-Set-Flip (SSF) algorithm to work with erasures, which is employed after the peeling procedure to correct the remaining errors.
 

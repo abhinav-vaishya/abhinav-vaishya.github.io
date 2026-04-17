@@ -7,12 +7,12 @@ description: "Personal Site and Blog"
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
 
 <div class="profile-pic">
-<img src="/assets/images/profile-picture.jpg"/>
+<img src="/assets/images/pp.jpg" style="width:275px; height:275px;"/>
 </div>
 <!-- ### About me -->
 
 <p>
-        I am a Research Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. My research focus is Erasure Decoding of Quantum LDPC codes.
+        I am a Project Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. My research focus is Erasure Decoding of Quantum LDPC codes.
 </p>
 <p>
         Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
@@ -37,31 +37,51 @@ description: "Personal Site and Blog"
   <i class="fas fa-envelope fa-2x"></i></a></p>
 </div>
 
+### News & Updates
 
+<table style="width:100%;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;border: 1px solid black;"><tbody>
+  <tr>
+    <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
+      <ul style="margin-bottom:0;padding-bottom:0;">
+        <li style="color: #084298;"><strong><em> June 2025: </em></strong>Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11240302">An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes</a> got accepted at ITW, 2025.</li>
+        <li style="color: #084298;"><strong><em> April 2025: </em></strong>Attended the school and workshop on <a href="https://www.icts.res.in/program/HDXandCodes">HDXs and Codes</a> at ICTS, Bengaluru.
+        </li>
+        <li style="color: #084298;"><strong><em> April 2025: </em></strong>Our paper <a href="https://arxiv.org/abs/2504.21845">On the Efficacy of the Peeling Decoder for the Quantum Expander Code</a> got accepted at ISIT, 2025.
+        </li>
+      </ul>
+    </td>
+  </tr>
+</tbody></table>
 
-### Timeline
-<table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;border: 1px solid black;border-color: black;"><tbody>
-            <tr>
-            <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
-              <!-- <heading style="color: #084298;">News</heading> -->
-              <ul>
-                <li style="color: #084298;"><strong><em> June 2025: </em></strong>Our paper <a href="/../files/ITW_2025_BP_Decimation.pdf">An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes</a> got accepted at ITW, 2025.</li>
-                <li style="color: #084298;"><strong><em> April 2025: </em></strong>Attended the school and workshop on <a href="https://www.icts.res.in/program/HDXandCodes">HDXs and Codes </a> at ICTS, Bengaluru.</li>
-                <li style="color: #084298;"><strong><em> April 2025: </em></strong>Our paper <a href="https://arxiv.org/abs/2504.21845">On the Efficacy of the Peeling Decoder for the Quantum Expander Code</a> got accepted at ISIT, 2025.</li>
-                <li style="color: #084298;"><strong><em> January 2024: </em></strong>Auditing the course <a href="https://ece.iisc.ac.in/~nkashyap/E2_210/">Quantum Error-Correcting Codes </a> taught by <a href="https://ece.iisc.ac.in/~nkashyap/">Prof. Navin Kashyap </a> at IISc, Bengaluru.</li>
-              	<li style="color: #084298;"><strong><em> September 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> got accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.</li>
-                <li style="color: #084298;"><strong><em> July 2023: </em></strong>Started working under <a  href = "https://ece.iisc.ac.in/~pvkece/"> Prof. P Vijay Kumar </a> at IISc, Bengaluru.</li>
-                <li style="color: #084298;"><strong><em> June 2023: </em></strong>Defended my Master's Thesis, titled <em>"Low Complexity Cache-Aided Communication Schemes for Distributed
-				Data Storage and Distributed Computing". </em>[<a href="files/Thesis_Defense_Abhinav.pdf">Slides</a>]</li>
-                <li style="color: #084298;"><strong><em> June 2023: </em></strong>Attended the <a  href = "https://ece.iisc.ac.in/~jtg/2023/index.html">JTG/IEEE ITSoc Summer School 2023 </a> at IISc, Bengaluru.</li>
-                <!-- <li style="color: #084298;"><strong><em> January 2023: </em></strong>Our paper <a  href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> is now on arXiv.</li> -->
-                <li style="color: #084298;"><strong><em> January 2023: </em></strong>Started working as a Teaching Assistant for the course Information-Theoretic Methods in Computer Science at IIIT-H.</li>
-                <li style="color: #084298;"><strong><em> November 2022: </em></strong>Presented our paper <a  href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> at  <a href = "https://itw2022.in/">ITW, 2022.</a> [<a href="files/ITW2022_CDR_Presentation.pdf">Slides</a>]</li>
-                <li style="color: #084298;"><strong><em> August 2022: </em></strong>My first paper got accepted at <a href = "https://itw2022.in/">ITW, 2022.</a></li>
-				</ul> 
-            </td>
-          </tr>
-        </tbody></table>
+<div markdown="0">
+<details style="margin:0;padding:0;">
+<summary style="cursor:pointer;font-weight:600;color:#000000;margin-top:10px;margin-bottom:4px;list-style:none;display:inline-block;padding:6px 16px;border:1.5px solid #000000;border-radius:6px;background-color:#ffffff;font-size:0.95em;user-select:none;">Old News &#9660;</summary>
+<table style="width:100%;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:0px;border:1px solid black;margin-top:6px;">
+  <tbody>
+    <tr>
+      <td style="padding:10px;width:100%;vertical-align:middle;background-color:#cfe2ff">
+        <ul style="margin-bottom:0;padding-bottom:0;">
+          <li style="color:#084298;"><strong><em> September 2023: </em></strong>Our paper <a href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> got accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.
+          </li>
+          <li style="color:#084298;"><strong><em> July 2023: </em></strong>Started working under <a href="https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru.
+          </li>
+          <li style="color:#084298;"><strong><em> June 2023: </em></strong>Defended my Master's Thesis, titled <em>"Low Complexity Cache-Aided Communication Schemes for Distributed Data Storage and Distributed Computing".</em> [<a href="files/Thesis_Defense_Abhinav.pdf">Slides</a>]
+          </li>
+          <li style="color:#084298;"><strong><em> June 2023: </em></strong>Attended the <a href="https://ece.iisc.ac.in/~jtg/2023/index.html">JTG/IEEE ITSoc Summer School 2023</a> at IISc, Bengaluru.
+          </li>
+          <li style="color:#084298;"><strong><em> January 2023: </em></strong>Started working as a Teaching Assistant for the course Information-Theoretic Methods in Computer Science at IIIT-H.
+          </li>
+          <li style="color:#084298;"><strong><em> November 2022: </em></strong>Presented our paper <a href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> at <a href="https://itw2022.in/">ITW, 2022.</a> [<a href="files/ITW2022_CDR_Presentation.pdf">Slides</a>]
+          </li>
+          <li style="color:#084298;"><strong><em> August 2022: </em></strong>My first paper <a href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> got accepted at <a href="https://itw2022.in/">ITW, 2022.</a>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+</details>
+</div>
 
 
 
@@ -74,7 +94,7 @@ description: "Personal Site and Blog"
             <td style="padding-left: 90px;width:70%;vertical-align:middle;border-color: white;background-color: white;">
               <strong>Indian Institute of Science (IISc), Bengaluru</strong>
               <br>
-                Research Associate under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>
+                Project Associate under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>
               <br>
                  Bengaluru &nbsp; · &nbsp; <em> July 2023 - Present  </em>
               <br><br>
