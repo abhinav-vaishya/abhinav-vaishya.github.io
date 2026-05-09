@@ -8,11 +8,11 @@ title: CV
 
 
 
-<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://abhinav-vaishya.github.io/files/CV.pdf" width="100%" height="100vh" style="border: 2px solid black;"></iframe>
+<iframe src="https://drive.google.com/viewerng/viewer?embedded=true&url=https://abhinav-vaishya.github.io/files/AbhinavVaishya_CV.pdf" width="100%" height="100vh" style="border: 2px solid black;"></iframe>
 
 <!-- <iframe src="/files/CV.pdf" width="100%" height="100vh" style="border: 2px solid black;"></iframe> -->
 
-(Please try refreshing if the CV doesn't appear or click <a href="https://abhinav-vaishya.github.io/files/CV.pdf" target="_blank">here.</a>)
+(Please try refreshing if the CV doesn't appear or click <a href="https://abhinav-vaishya.github.io/files/AbhinavVaishya_CV.pdf" target="_blank">here.</a>)
 
 <!-- Click <a href="/files/CV.pdf" target="_blank">here</a>  to open the pdf in a new tab. -->
 

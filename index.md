@@ -12,10 +12,10 @@ description: "Personal Site and Blog"
 <!-- ### About me -->
 
 <p>
-        I am a Project Associate working under <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru. My research focus is Erasure Decoding of Quantum LDPC codes.
+        Hi! I am a PhD student in the <a href="https://math.tecnico.ulisboa.pt/">Department of Mathematics</a> at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico – Universidade de Lisboa</a>, where I am very fortunate to be advised by <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a>. My research focus is error-correcting codes for synchronization errors.
 </p>
 <p>
-        Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
+        Previously, I worked as a Project Associate at the Indian Institute of Science (IISc), Bengaluru, under the supervision of <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>. During this time, my research focused on quantum error-correcting codes. Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
         <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Prof. Prasad Krishnan</a> at
         <a href="https://spcrc.iiit.ac.in/">SPCRC</a>, IIIT Hyderabad. My research was primarily focused on 
         developing novel cache-aided communication schemes for distributed data storage systems and content-delivery
@@ -43,6 +43,7 @@ description: "Personal Site and Blog"
   <tr>
     <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
       <ul style="margin-bottom:0;padding-bottom:0;">
+        <li style="color: #084298;"><strong><em> May 2026: </em></strong>Started my PhD under the supervision of <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a> at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico – Universidade de Lisboa</a>.</li>
         <li style="color: #084298;"><strong><em> June 2025: </em></strong>Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11240302">An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes</a> got accepted at ITW, 2025.</li>
         <li style="color: #084298;"><strong><em> April 2025: </em></strong>Attended the school and workshop on <a href="https://www.icts.res.in/program/HDXandCodes">HDXs and Codes</a> at ICTS, Bengaluru.
         </li>
@@ -90,7 +91,19 @@ description: "Personal Site and Blog"
 <div markdown="0" style="font-family:inherit;">
 
   <div style="display:flex;gap:24px;margin-bottom:24px;">
-    <div style="min-width:160px;max-width:160px;color:#666;font-size:0.9em;padding-top:2px;">Jul 2023 – Present</div>
+    <div style="min-width:160px;max-width:160px;color:#666;font-size:0.9em;padding-top:2px;">May 2026 – Present</div>
+    <div>
+      <strong>Instituto de Telecomunicações, Lisboa</strong><br>
+      Researcher under <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a><br>
+      <span style="color:#666;font-size:0.9em;">Lisbon</span>
+      <ul style="margin:6px 0 0 0;padding-left:20px;">
+        <li>Error-correcting codes for synchronization errors</li> 
+      </ul>
+    </div>
+  </div>
+
+  <div style="display:flex;gap:24px;margin-bottom:24px;">
+    <div style="min-width:160px;max-width:160px;color:#666;font-size:0.9em;padding-top:2px;">Jul 2023 – Sept 2025</div>
     <div>
       <strong>Indian Institute of Science (IISc), Bengaluru</strong><br>
       Project Associate under <a href="https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a><br>
@@ -119,7 +132,7 @@ description: "Personal Site and Blog"
     <div style="min-width:160px;max-width:160px;color:#666;font-size:0.9em;padding-top:2px;">Aug 2020 – May 2023</div>
     <div>
       <strong>Signal Processing and Communications Research Center, IIIT-H</strong><br>
-      Researcher under <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Prof. Prasad Krishnan</a><br>
+      Undergraduate Researcher and Research Assistant under <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Prof. Prasad Krishnan</a><br>
       <span style="color:#666;font-size:0.9em;">Hyderabad</span>
       <ul style="margin:6px 0 0 0;padding-left:20px;">
         <li>Coded Caching</li>
@@ -169,6 +182,19 @@ description: "Personal Site and Blog"
 <div markdown="0" style="font-family:inherit;">
 
   <div style="display:flex;gap:24px;margin-bottom:24px;">
+    <div style="min-width:160px;max-width:160px;color:#666;font-size:0.9em;padding-top:2px;">May 2026 – Present</div>
+    <div>
+      <strong>Instituto Superior Técnico – Universidade de Lisboa</strong><br>
+      PhD in Mathematics<br>
+      <span style="color:#666;font-size:0.9em;">Lisbon</span>
+      <ul style="margin:6px 0 0 0;padding-left:20px;">
+        <li>Advisor: <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a></li>
+        <li>Research focus: Error-correcting codes for synchronization errors</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="display:flex;gap:24px;margin-bottom:24px;">
     <div style="min-width:160px;max-width:160px;color:#666;font-size:0.9em;padding-top:2px;">Jul 2018 – Jun 2023</div>
     <div>
       <strong>International Institute of Information Technology, Hyderabad (IIIT-H)</strong><br>
@@ -181,6 +207,8 @@ description: "Personal Site and Blog"
       </ul>
     </div>
   </div>
+
+  
 
 </div>
 

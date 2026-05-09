@@ -4,11 +4,14 @@ prefix_anchors: true
 ---
 
 ### Research Interests
-- Quantum Error-Correcting Codes, specifically erasure decoding of Quantum LDPC codes.
-- Graph-based Codes
+- Error-Correcting Codes for Synchronization Errors
+- Codes for DNA Storage
 - Combinatorial and Algorithmic Problems in Coding Theory
-- Codes for Distributed Storage
-- Applying Combinatorics and Coding-Theoretic ideas to problems in Broadcast Communications \
+- Past:
+	- Graph-based Codes
+	- Quantum Error-Correcting Codes, specifically erasure decoding of Quantum LDPC codes.
+	- Codes for Distributed Storage
+	- Applying Combinatorics and Coding-Theoretic ideas to problems in Broadcast Communications \
 (e.g., Coded Caching, Coded Data Rebalancing, Coded Distributed Computing, etc.)
 
 
