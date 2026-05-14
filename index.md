@@ -33,7 +33,7 @@ description: "Personal Site and Blog"
 
 <div class="social-icons">
   <p><a href="https://scholar.google.com/citations?user=fQ7Kb44AAAAJ&hl=en" title="Google Scholar"><i class="ai ai-google-scholar ai-2x"></i></a></p>
-  <p><a href="mailto:vaishyaabhinav@gmail.com" title="Email">
+  <p><a href="mailto:abhinav.vaishya@tecnico.ulisboa.pt" title="Email">
   <i class="fas fa-envelope fa-2x"></i></a></p>
 </div>
 
