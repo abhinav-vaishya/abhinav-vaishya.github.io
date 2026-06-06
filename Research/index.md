@@ -18,16 +18,15 @@ prefix_anchors: true
 
 ### Publications
 
-#### Preprints / Under Review
-
-
-- <em>Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage, </em>preprint, submitted to IEEE Transactions on Information Theory (TIT).<br>
-<strong>Abhinav Vaishya</strong>, Athreya Chandramouli, Srikar Kale, Prasad Krishnan<br>
-[<a href="https://arxiv.org/abs/2205.06257">arXiv</a>]<br><br>
-We present coded data rebalancing schemes for the single node-removal and node-addition scenarios in replication-based distributed data storage systems with cyclic storage. We also derive a lower bound for the single node-removal scenario.
+<!-- #### Preprints / Under Review -->
 
 
 #### Journals
+
+- <em>Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage, </em> IEEE Transactions on Information Theory (TIT), 2026.<br>
+<strong>Abhinav Vaishya</strong>, Athreya Chandramouli, Srikar Kale, Prasad Krishnan<br>
+[<a href="https://ieeexplore.ieee.org/document/11551671">IEEE</a>]<br><br>
+We present coded data rebalancing schemes for the single node-removal and node-addition scenarios in replication-based distributed data storage systems with cyclic storage. We also derive a lower bound for the single node-removal scenario.
 
 - <em>Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs, </em>IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023. <br>
 Shailja Agrawal, K V Sushena Sree, Prasad Krishnan, <strong>Abhinav Vaishya</strong>, Srikar Kale<br>

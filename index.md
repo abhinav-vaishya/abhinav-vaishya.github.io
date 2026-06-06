@@ -15,15 +15,14 @@ description: "Personal Site and Blog"
         Hi! I am a PhD student in the <a href="https://math.tecnico.ulisboa.pt/">Department of Mathematics</a> at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico – Universidade de Lisboa</a>, where I am very fortunate to be advised by <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a>. My research focus is error-correcting codes for synchronization errors.
 </p>
 <p>
-        Previously, I worked as a Project Associate at the Indian Institute of Science (IISc), Bengaluru, under the supervision of <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>. During this time, my research focused on quantum error-correcting codes. Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from <a  href="https://iiit.ac.in/">IIIT Hyderabad</a>. I was working under 
-        <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Prof. Prasad Krishnan</a> at
-        <a href="https://spcrc.iiit.ac.in/">SPCRC</a>, IIIT Hyderabad. My research was primarily focused on 
+        Previously, I worked as a Project Associate at the Indian Institute of Science (IISc), Bengaluru, under the supervision of <a  href = "https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a>. During this time, my research mainly focused on erasure-decoding of quantum LDPC codes. Prior to that, I completed my B.Tech (Hons.) and MS by Research (Dual Degree) in Computer Science and Engineering from the International Institute of Information Technology, Hyderabad (IIIT-H). I worked as an undergraduate researcher and later as a research assistant under the supervision of
+        <a href="https://scholar.google.co.in/citations?user=OEdS9e4AAAAJ&hl=en">Prof. Prasad Krishnan</a> and my research primarily focused on 
         developing novel cache-aided communication schemes for distributed data storage systems and content-delivery
         networks.
 </p>
 <p>
  		My research interests lie broadly in Coding Theory (both Classical and Quantum). I enjoy working on
-        problems that are algebraic, algorithmic, or combinatorial in nature.
+        problems that are algebraic, algorithmic, and/or combinatorial in nature.
 </p>
 <p>
   Details about my research work are available <a href="/Research/">here.</a> I (plan to) write up about things that I learn in <a href="/blogs/">my blog.</a>
@@ -43,11 +42,12 @@ description: "Personal Site and Blog"
   <tr>
     <td style="padding:10px;width:100%;vertical-align:middle;background-color: #cfe2ff">
       <ul style="margin-bottom:0;padding-bottom:0;">
+        <li style="color:#084298;"><strong><em> May 2026: </em></strong>Our paper <a href="https://ieeexplore.ieee.org/document/11551671">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> was accepted for publication in IEEE Transactions on Information Theory (TIT), 2026.</li>
         <li style="color: #084298;"><strong><em> May 2026: </em></strong>Started my PhD under the supervision of <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a> at <a href="https://tecnico.ulisboa.pt/en/">Instituto Superior Técnico – Universidade de Lisboa</a>.</li>
-        <li style="color: #084298;"><strong><em> June 2025: </em></strong>Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11240302">An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes</a> got accepted at ITW, 2025.</li>
+        <li style="color: #084298;"><strong><em> June 2025: </em></strong>Our paper <a href="https://ieeexplore.ieee.org/abstract/document/11240302">An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes</a> was accepted at IEEE Information Theory Workshop (ITW), 2025.</li>
         <li style="color: #084298;"><strong><em> April 2025: </em></strong>Attended the school and workshop on <a href="https://www.icts.res.in/program/HDXandCodes">HDXs and Codes</a> at ICTS, Bengaluru.
         </li>
-        <li style="color: #084298;"><strong><em> April 2025: </em></strong>Our paper <a href="https://arxiv.org/abs/2504.21845">On the Efficacy of the Peeling Decoder for the Quantum Expander Code</a> got accepted at ISIT, 2025.
+        <li style="color: #084298;"><strong><em> April 2025: </em></strong>Our paper <a href="https://arxiv.org/abs/2504.21845">On the Efficacy of the Peeling Decoder for the Quantum Expander Code</a> was accepted at IEEE International Symposium on Information Theory (ISIT), 2025.
         </li>
       </ul>
     </td>
@@ -62,19 +62,19 @@ description: "Personal Site and Blog"
     <tr>
       <td style="padding:10px;width:100%;vertical-align:middle;background-color:#cfe2ff">
         <ul style="margin-bottom:0;padding-bottom:0;">
-          <li style="color:#084298;"><strong><em> September 2023: </em></strong>Our paper <a href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> got accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.
+          <li style="color:#084298;"><strong><em> September 2023: </em></strong>Our paper <a href="https://arxiv.org/abs/2302.03452">Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs</a> was accepted for publication in IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023.
           </li>
-          <li style="color:#084298;"><strong><em> July 2023: </em></strong>Started working under <a href="https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru.
+          <li style="color:#084298;"><strong><em> July 2023: </em></strong>Started working as a Project Associate under the supervision of <a href="https://ece.iisc.ac.in/~pvkece/">Prof. P Vijay Kumar</a> at IISc, Bengaluru.
           </li>
           <li style="color:#084298;"><strong><em> June 2023: </em></strong>Defended my Master's Thesis, titled <em>"Low Complexity Cache-Aided Communication Schemes for Distributed Data Storage and Distributed Computing".</em> [<a href="files/Thesis_Defense_Abhinav.pdf">Slides</a>]
           </li>
-          <li style="color:#084298;"><strong><em> June 2023: </em></strong>Attended the <a href="https://ece.iisc.ac.in/~jtg/2023/index.html">JTG/IEEE ITSoc Summer School 2023</a> at IISc, Bengaluru.
-          </li>
+          <!-- <li style="color:#084298;"><strong><em> June 2023: </em></strong>Attended the <a href="https://ece.iisc.ac.in/~jtg/2023/index.html">JTG/IEEE ITSoc Summer School 2023</a> at IISc, Bengaluru.
+          </li> -->
           <li style="color:#084298;"><strong><em> January 2023: </em></strong>Started working as a Teaching Assistant for the course Information-Theoretic Methods in Computer Science at IIIT-H.
           </li>
-          <li style="color:#084298;"><strong><em> November 2022: </em></strong>Presented our paper <a href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> at <a href="https://itw2022.in/">ITW, 2022.</a> [<a href="files/ITW2022_CDR_Presentation.pdf">Slides</a>]
-          </li>
-          <li style="color:#084298;"><strong><em> August 2022: </em></strong>My first paper <a href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> got accepted at <a href="https://itw2022.in/">ITW, 2022.</a>
+          <!-- <li style="color:#084298;"><strong><em> November 2022: </em></strong>Presented our paper <a href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> at <a href="https://itw2022.in/">ITW, 2022.</a> [<a href="files/ITW2022_CDR_Presentation.pdf">Slides</a>]
+          </li> -->
+          <li style="color:#084298;"><strong><em> August 2022: </em></strong>Our paper (my first) <a href="https://ieeexplore.ieee.org/abstract/document/9965756">Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage</a> was accepted at IEEE Information Theory Workshop (ITW), 2022. [<a href="files/ITW2022_CDR_Presentation.pdf">Slides</a>]
           </li>
         </ul>
       </td>
