@@ -5,34 +5,42 @@ prefix_anchors: true
 
 ### Research Interests
 - Error-Correcting Codes for Synchronization Errors
-- Codes for DNA Storage
 - Combinatorial and Algorithmic Problems in Coding Theory
-- Past:
-	- Graph-based Codes
-	- Quantum Error-Correcting Codes, specifically erasure decoding of Quantum LDPC codes.
-	- Codes for Distributed Storage
-	- Applying Combinatorics and Coding-Theoretic ideas to problems in Broadcast Communications \
-(e.g., Coded Caching, Coded Data Rebalancing, Coded Distributed Computing, etc.)
+<div markdown="0">
+<details style="margin:0;padding:0;"
+  ontoggle="this.querySelector('summary').innerHTML = this.open ? 'Past &#9650;' : 'Past &#9660;'">
 
+<summary style="cursor:pointer;font-weight:600;color:#000000;margin-top:10px;margin-bottom:4px;list-style:none;display:inline-block;padding:6px 16px;border:1.5px solid #000000;border-radius:6px;background-color:#ffffff;font-size:0.95em;user-select:none;">Past &#9660;</summary>
+
+<ul style="margin-top:8px; padding-left:40px;">
+  <li>Quantum LDPC codes</li>
+  <li>Codes for Distributed Storage</li>
+  <li>Applying Combinatorial and Coding-Theoretic ideas to problems in Broadcast Communications (e.g., Coded Caching, Coded Data Rebalancing, Coded Distributed Computing, etc.)</li>
+</ul>
+
+</details>
+</div>
 
 
 ### Publications
 
-<!-- #### Preprints / Under Review -->
+#### Preprints / Under Review
 
+- <em> Quasi-Cyclic Qudit Lifted Product Codes with Almost Linear Minimum Distance, </em> Preprint, 2026.<br>
+Shantom K. Borah, <strong>Abhinav Vaishya</strong>, V. Lalitha, Asit Kumar Pradhan, Bane Vasic, Narayanan Rengaswamy<br>
+[<a href="https://arxiv.org/abs/2611.15952">arXiv</a>]<br><br>
+<strong>My contribution:</strong> Minimum distance proof.
 
 #### Journals
 
 - <em>Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage, </em> IEEE Transactions on Information Theory (TIT), 2026.<br>
 <strong>Abhinav Vaishya</strong>, Athreya Chandramouli, Srikar Kale, Prasad Krishnan<br>
 [<a href="https://ieeexplore.ieee.org/document/11551671">IEEE</a>]<br><br>
-We present coded data rebalancing schemes for the single node-removal and node-addition scenarios in replication-based distributed data storage systems with cyclic storage. We also derive a lower bound for the single node-removal scenario.
 
 - <em>Cache-Aided Communication Schemes via Combinatorial Designs and their q-analogs, </em>IEEE Journal on Selected Areas in Information Theory (JSAIT), 2023. <br>
 Shailja Agrawal, K V Sushena Sree, Prasad Krishnan, <strong>Abhinav Vaishya</strong>, Srikar Kale<br>
 [<a href="https://ieeexplore.ieee.org/document/10268092">IEEE</a>]
 [<a href="https://arxiv.org/abs/2302.03452">arXiv</a>] <br><br>
-We present new coded caching and distributed computing schemes using binary matrices arising out of combinatorial designs and their q-analogs (subspace designs).<br><br>
 <strong>My contribution:</strong> Subspace Design based schemes.
               
 #### Conferences
@@ -40,18 +48,15 @@ We present new coded caching and distributed computing schemes using binary matr
 - <em>An Improved Decimation Technique for Erasure Decoding of Quantum LDPC Codes, </em>IEEE Information Theory Workshop (ITW), 2025.<br>
 Gayathri R., Shobhit Bhatnagar, <strong>Abhinav Vaishya</strong>, P Vijay Kumar<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/11240302">IEEE</a>]<br><br>
-We present an improved decimation technique for belief-propagation-based erasure decoding of Quantum LDPC Codes and show our results through simulations.
-
 
 - <em>On the Efficacy of the Peeling Decoder for the Quantum Expander Code, </em>IEEE International Symposium on Information Theory (ISIT), 2025.<br>
 Jefrin Sharmitha Prabhu*, <strong> Abhinav Vaishya*</strong>, Shobhit Bhatnagar, Aryaman Manish Kolhe, V. Lalitha, P. Vijay Kumar<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/11195550">IEEE</a>]
 [<a href="https://arxiv.org/abs/2504.21845">arXiv</a>]<br><br>
-We study the efficacy of the peeling decoder for a class of Hypergraph Product Codes, known as Quantum Expander Codes. We also modify the Small-Set-Flip (SSF) algorithm to work with erasures, which is employed after the peeling procedure to correct the remaining errors.
+
 
 - <em>Coded Data Rebalancing for Distributed Data Storage Systems with Cyclic Storage, </em>IEEE Information Theory Workshop (ITW), 2022.<br>
 Athreya Chandramouli, <strong>Abhinav Vaishya</strong>, Prasad Krishnan<br>
 [<a href="https://ieeexplore.ieee.org/abstract/document/9965756">IEEE</a>]
 [<a href="/../files/ITW2022_CDR_Presentation.pdf">Slides</a>]<br><br>
-We present coded data rebalancing schemes for the single node-removal scenario in replication-based distributed data storage systems with cyclic storage. <br><br>
 *indicates equal contribution

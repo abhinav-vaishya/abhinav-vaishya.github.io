@@ -21,8 +21,7 @@ description: "Personal Site and Blog"
         networks.
 </p>
 <p>
- 		My research interests lie broadly in Coding Theory (both Classical and Quantum). I enjoy working on
-        problems that are algebraic, algorithmic, and/or combinatorial in nature.
+ 		My research interests lie broadly in Coding Theory (both Classical and Quantum). I enjoy working on problems involving algorithms, combinatorics, and discrete mathematics.
 </p>
 <p>
   Details about my research work are available <a href="/Research/">here.</a> I (plan to) write up about things that I learn in <a href="/blogs/">my blog.</a>
