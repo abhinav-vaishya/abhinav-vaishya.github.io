@@ -29,7 +29,7 @@ prefix_anchors: true
 - <em> Quasi-Cyclic Qudit Lifted Product Codes with Almost Linear Minimum Distance, </em> Preprint, 2026.<br>
 Shantom K. Borah, <strong>Abhinav Vaishya</strong>, V. Lalitha, Asit Kumar Pradhan, Bane Vasic, Narayanan Rengaswamy<br>
 [<a href="https://arxiv.org/abs/2611.15952">arXiv</a>]<br><br>
-<strong>My contribution:</strong> Minimum distance proof.
+
 
 #### Journals
 
@@ -41,7 +41,7 @@ Shantom K. Borah, <strong>Abhinav Vaishya</strong>, V. Lalitha, Asit Kumar Pradh
 Shailja Agrawal, K V Sushena Sree, Prasad Krishnan, <strong>Abhinav Vaishya</strong>, Srikar Kale<br>
 [<a href="https://ieeexplore.ieee.org/document/10268092">IEEE</a>]
 [<a href="https://arxiv.org/abs/2302.03452">arXiv</a>] <br><br>
-<strong>My contribution:</strong> Subspace Design based schemes.
+
               
 #### Conferences
 

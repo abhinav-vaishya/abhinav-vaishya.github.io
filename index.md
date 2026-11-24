@@ -189,6 +189,7 @@ description: "Personal Site and Blog"
       <ul style="margin:6px 0 0 0;padding-left:20px;">
         <li>Advisor: <a href="https://sites.google.com/site/joaorib94/">Prof. João Ribeiro</a></li>
         <li>Research focus: Error-correcting codes for synchronization errors</li>
+        <li>Coursework: Theory of Computability, Complexity and Information; Advanced Topics in Logic and Computation</li>
       </ul>
     </div>
   </div>
